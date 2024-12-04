@@ -1,5 +1,9 @@
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        final  String CPF = "75005638172";
+
+        System.out.println(CPF);
+
+        
     }
 }
